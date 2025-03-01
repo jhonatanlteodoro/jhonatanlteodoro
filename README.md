@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My Badges
+ <a href= "https://cloud.layer5.io/user/55a43410-7bef-4c49-bfa3-9d1654c9a7b7?tab=badges&badge=first-design" >
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
 <!--
 **jhonatanlteodoro/jhonatanlteodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
